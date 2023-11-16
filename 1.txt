@@ -1,2 +1,10 @@
-Git is a version control system.
-Git is free software.
+你好
+Hello
+Bonjour
+Guten Tag
+Hola
+Ciao
+こんにちは
+안녕하세요
+Привет
+مرحبا
